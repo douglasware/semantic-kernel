@@ -482,3 +482,4 @@ swa-cli.config.json
 
 # Semantic Kernel Tools
 /.semantic-kernel
+/samples/notebooks/dotnet/config/settings.json
