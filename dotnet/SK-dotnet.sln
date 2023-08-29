@@ -154,6 +154,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connectors.Memory.Kusto", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connectors.AI.Koboldcpp", "src\Connectors\Connectors.AI.Koboldcpp\Connectors.AI.Koboldcpp.csproj", "{47D2A875-513A-4212-927B-FB282B01CC46}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateEngine.PromptTemplateEngine", "src\Extensions\TemplateEngine.PromptTemplateEngine\TemplateEngine.PromptTemplateEngine.csproj", "{3219964E-69C0-4364-AD8D-9D8629ABF849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,12 @@ Global
 		{47D2A875-513A-4212-927B-FB282B01CC46}.Publish|Any CPU.Build.0 = Publish|Any CPU
 		{47D2A875-513A-4212-927B-FB282B01CC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D2A875-513A-4212-927B-FB282B01CC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Publish|Any CPU.ActiveCfg = Publish|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Publish|Any CPU.Build.0 = Publish|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3219964E-69C0-4364-AD8D-9D8629ABF849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
